@@ -1,16 +1,21 @@
-## Hi there 👋
+Lia Ferreira
 
-<!--
-**liaferreiralife/liaferreiralife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business and organizational consultant | Founder, Life Gestão | Campinas, Brazil
 
-Here are some ideas to get you started:
+30+ years in multinational technology and manufacturing companies in Brazil and Latin America, including seven years as Regional HR Director (2,000+ employees in three countries).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I do
+
+Organizational design and job architecture
+Workforce planning and labor cost analysis
+Labor relations and restructuring in Brazil
+Evaluating AI outputs on business and HR scenarios: structured rubrics, edge cases and local-law blind spots
+
+Writing
+
+Você Virou uma Máquina (2026), on leadership in the age of AI, with 29 companion tools. ISBN 9786502106341
+
+Connect
+
+LinkedIn: https://www.linkedin.com/in/liaferreira
+Google Scholar: https://scholar.google.com/citations?user=T8jcnN4AAAAJ&hl=pt-BR
